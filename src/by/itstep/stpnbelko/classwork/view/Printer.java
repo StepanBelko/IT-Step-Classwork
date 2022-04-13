@@ -1,4 +1,4 @@
-package by.itstep.stpnbelko.classwork.stage12.task01.view;
+package by.itstep.stpnbelko.classwork.view;
 
 public class Printer {
     public static void print(String msg) {

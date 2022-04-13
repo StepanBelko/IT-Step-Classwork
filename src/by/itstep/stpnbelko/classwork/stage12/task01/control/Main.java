@@ -1,7 +1,7 @@
 package by.itstep.stpnbelko.classwork.stage12.task01.control;
 
 import by.itstep.stpnbelko.classwork.stage12.task01.model.logic.ChessPiecesLogic;
-import by.itstep.stpnbelko.classwork.stage12.task01.view.Printer;
+import by.itstep.stpnbelko.classwork.view.Printer;
 
 import java.util.Scanner;
 
