@@ -1,6 +1,8 @@
 package by.itstep.stpnbelko.classwork.lesson29.arraytest.logic;
 
 import static by.itstep.stpnbelko.classwork.lesson29.arraytest.logic.ArrayLogic.*;
+import static by.itstep.stpnbelko.classwork.lesson29.arraytest.logic.LevelFLogic.*;
+
 import static org.junit.Assert.*;
 
 import org.junit.Test;

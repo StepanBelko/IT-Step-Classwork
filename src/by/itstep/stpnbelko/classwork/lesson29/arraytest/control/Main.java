@@ -4,7 +4,7 @@ import java.util.Scanner;
 import static by.itstep.stpnbelko.classwork.lesson29.arraytest.logic.ArrayLogic.*;
 import static by.itstep.stpnbelko.classwork.view.Printer.*;
 
-public class Main {
+public class Main extends Throwable{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] array = {1, 2, 3, -23, -8,  0, 6, 5, -5, -3, -22};
